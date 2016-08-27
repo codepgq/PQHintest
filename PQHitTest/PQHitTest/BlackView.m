@@ -1,14 +1,14 @@
 //
-//  GreenView.m
+//  blackView.m
 //  PQHitTest
 //
 //  Created by ios on 16/8/27.
 //  Copyright © 2016年 ios. All rights reserved.
 //
 
-#import "GreenView.h"
+#import "blackView.h"
 
-@implementation GreenView
+@implementation BlackView
 
 //- (UIView *)hitTest:(CGPoint)point withEvent:(UIEvent *)event{
 //    NSLog(@"%s",__func__);

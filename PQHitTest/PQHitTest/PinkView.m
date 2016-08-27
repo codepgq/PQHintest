@@ -10,19 +10,9 @@
 
 @implementation PinkView
 
-- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
-    [super touchesBegan:touches withEvent:event];
-    NSLog(@"%s",__func__);
-}
-
-- (UIView *)hitTest:(CGPoint)point withEvent:(UIEvent *)event{
-    NSLog(@"%s",__func__);
-    return [super hitTest:point withEvent:event];
-}
-
 //- (UIView *)hitTest:(CGPoint)point withEvent:(UIEvent *)event{
-//    //pink view
-//    return nil;
+//    NSLog(@"%s",__func__);
+//    return [super hitTest:point withEvent:event];
 //}
 
 @end

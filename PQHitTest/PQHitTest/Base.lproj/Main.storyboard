@@ -22,29 +22,29 @@
                                 <rect key="frame" x="20" y="20" width="240" height="128"/>
                                 <color key="backgroundColor" red="0.21933986638301622" green="0.73868189102564097" blue="0.0047331206855839181" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="p8s-gV-kFU" customClass="PinkView">
-                                <rect key="frame" x="8" y="156" width="361" height="331"/>
-                                <subviews>
-                                    <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="M6e-d6-utg" customClass="YellowView">
-                                        <rect key="frame" x="8" y="91" width="155" height="150"/>
-                                        <color key="backgroundColor" red="0.97857225915524237" green="1" blue="0.11281555062083426" alpha="1" colorSpace="calibratedRGB"/>
-                                    </view>
-                                    <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="pRm-Qh-7ZJ" customClass="BrownView">
-                                        <rect key="frame" x="171" y="36" width="182" height="260"/>
-                                        <subviews>
-                                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6DW-38-a2A" customClass="BlackView">
-                                                <rect key="frame" x="22" y="80" width="138" height="128"/>
-                                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                            </view>
-                                        </subviews>
-                                        <color key="backgroundColor" red="0.60000002379999995" green="0.40000000600000002" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                                    </view>
-                                </subviews>
-                                <color key="backgroundColor" red="1" green="0.79273369501658297" blue="0.78607668053918145" alpha="1" colorSpace="calibratedRGB"/>
-                            </view>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="9mt-cU-9fF" customClass="OrangeView">
                                 <rect key="frame" x="8" y="506" width="294" height="130"/>
                                 <color key="backgroundColor" red="1" green="0.63014534970000002" blue="0.18191904340000001" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mHg-8g-QT4" customClass="PinkView">
+                                <rect key="frame" x="20" y="156" width="350" height="342"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="g9g-9B-7XW" customClass="YellowView">
+                                        <rect key="frame" x="8" y="63" width="148" height="190"/>
+                                        <color key="backgroundColor" red="0.97647058823529409" green="1" blue="0.19607843137254902" alpha="1" colorSpace="calibratedRGB"/>
+                                    </view>
+                                    <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cXu-CX-btE" customClass="BrownView">
+                                        <rect key="frame" x="164" y="28" width="166" height="260"/>
+                                        <subviews>
+                                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LPQ-Qc-kKn" customClass="BlackView">
+                                                <rect key="frame" x="19" y="75" width="129" height="109"/>
+                                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            </view>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.60392156862745094" green="0.40392156862745099" blue="0.21176470588235294" alpha="1" colorSpace="calibratedRGB"/>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" red="1" green="0.79273369500000002" blue="0.78607668050000001" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
                         </subviews>
                         <color key="backgroundColor" red="0.51582826609999999" green="0.62919064339999997" blue="1" alpha="1" colorSpace="calibratedRGB"/>
